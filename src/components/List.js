@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import PropTypes from "prop-types";
+import { MEDIA_QUERY_MD, MEDIA_QUERY_LG } from "../constants/style";
 
 export const ListWrapper = styled.section`
   display: inline-block;
@@ -82,6 +83,14 @@ const InfoWrapper = styled.div`
     font-weight: bold;
     font-size: 14px;
     color: #363636;
+  }
+
+  ${MEDIA_QUERY_MD} {
+    width: 90%;
+  }
+
+  ${MEDIA_QUERY_LG} {
+    width: 50vw;
   }
 `;
 
