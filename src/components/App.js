@@ -24,7 +24,7 @@ function App() {
       <ListWrapper>
         <ListTitle><h3>進行中</h3></ListTitle>
           {itemsInProcess.map((item, index) =>  (
-            <ListItem info={item} key={index} />
+       <ListItem info={item} key={index} />
           ))}
         <ListTitle><h3>已完成</h3></ListTitle>
         {itemsFinished.map((item, index) =>  (
