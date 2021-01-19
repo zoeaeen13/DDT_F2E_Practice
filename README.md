@@ -1,8 +1,8 @@
-## 數數發中心 前端筆試題
-一個串接 Lidemy API 的部落格系統，註冊用戶可以檢視、上傳、編輯及刪除文章。
+## 數數發中心 體驗設計科 前端筆試題
+
 - [Demo](https://zoeaeen13.github.io/DDT_F2E_Practice/)
 
-
+![](https://i.imgur.com/25OX3tq.png)
 
 ### 完成項目
 - 進入畫面時，從假 API 取得取得資訊後，渲染 UI
