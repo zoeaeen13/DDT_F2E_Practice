@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,YAEE,QAAS,CACT,SAAU,CACV,mBACF","file":"main.a651d9b1.chunk.css","sourcesContent":["body,\nbody * {\n  margin: 0;\n  padding: 0;\n  font-family: \"微軟正黑體\";\n}\n"]}
